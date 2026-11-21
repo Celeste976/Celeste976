@@ -26,7 +26,7 @@ Estudiante de Desarrollo de Software en **Barranquilla, Colombia**, interesada e
 
 * **Intereses técnicos:** Desarrollo de aplicaciones SaaS, integración y despliegue continuo (CI/CD), diseño de interfaces (UI) y arquitectura cloud.
 * **Idiomas:** Aprendizaje de idiomas (inglés, francés y alemán).
-* **Hobbies: ** Viajar por el mundo, tocar batería, aprender idiomas y seguir la Fórmula 1.
+* **Hobbies:** Viajar por el mundo, tocar batería, aprender idiomas y seguir la Fórmula 1.
 
 ---
 
@@ -34,4 +34,4 @@ Estudiante de Desarrollo de Software en **Barranquilla, Colombia**, interesada e
 
 * **[Nombre de tu proyecto SaaS]:** Aplicación web desarrollada con React y Next.js desplegada en AWS con flujo CI/CD.
 * **BPDS (To-Do App):** Aplicación web en Next.js y TypeScript con flujo de ramas en Git/GitHub y despliegue automatizado en AWS.
-* **Proyectos personales: ** Desarrollo de una trivia con Java Script y calculadora .
+* **Proyectos personales:** Desarrollo de una trivia con Java Script y calculadora .
