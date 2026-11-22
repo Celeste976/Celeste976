@@ -32,6 +32,6 @@ Estudiante de Desarrollo de Software en **Barranquilla, Colombia**, interesada e
 
 ## Proyectos
 
-* **[Nombre de tu proyecto SaaS]:** Aplicación web desarrollada con React y Next.js desplegada en AWS con flujo CI/CD.
+* **Stocklite:** Aplicación web desarrollada con React y Next.js desplegada en AWS con flujo CI/CD, control de stock y reposición para pequeños negocios, permite registrar productos, ver cantidades, marcar alertas de stock bajos y cambiar estados ej: disponible, no disponible etc.
 * **BPDS (To-Do App):** Aplicación web en Next.js y TypeScript con flujo de ramas en Git/GitHub y despliegue automatizado en AWS.
 * **Proyectos personales:** Desarrollo de una trivia con Java Script y calculadora .
